@@ -7,12 +7,12 @@
 - **Project Summary**: Based on Luyao Zhang, Xinshi Ma, and Yulin Liu's research on [Blockchain Decentralization](https://arxiv.org/abs/2205.04256), the project is aimed at generating a new visualization for the decentralization index of three tokens, which are "AAVE", "COMP", and "LUSD". Here, one kind of the new visualizations is shown and more other amazing visualizations can be generated. [Python Plotly](https://plotly.com/python/) is used to generate a Violin Plot for the dencity of three tokens' decentralization index.
 
 ## Table of Contents
-- [data](https://github.com/Jay2251929205/portfolio/tree/main/data)
-- [code](https://github.com/Jay2251929205/portfolio/tree/main/code)
-- [spotlight](https://github.com/Jay2251929205/portfolio/tree/main/spotlight)
+- [Data](https://github.com/Jay2251929205/portfolio/tree/main/data)
+- [Code](https://github.com/Jay2251929205/portfolio/tree/main/code)
+- [Spotlight](https://github.com/Jay2251929205/portfolio/tree/main/spotlight)
 
 ## Data
-- Data Source: https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex
+- [Data Source](https://github.com/SciEcon/SoK_Blockchain_Decentralization/tree/main/Data_TokenIndex)
 - [Queried Data](https://github.com/Jay2251929205/portfolio/tree/main/data/Queried_Data)
 - [Processed Data](https://github.com/Jay2251929205/portfolio/tree/main/data/Processed_Data)
 
