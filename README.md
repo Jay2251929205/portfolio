@@ -1,4 +1,4 @@
-# New Visualization on Blockchain Decentralization: 2D Histogram Contour Plots
+# New Visualization for Blockchain Decentralization Index of AAVE, COMP, and LUSD
 ## Project information
 - **Author**: Jiayi Wang, Applied Mathematics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
